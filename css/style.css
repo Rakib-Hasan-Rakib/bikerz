@@ -1,4 +1,9 @@
-
+html {
+    font-family: 'Poppins', sans-serif;
+}
 .star-icon{
     width: 20px!important;
+}
+header{
+    background: #264653!important;
 }
